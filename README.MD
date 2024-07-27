@@ -66,17 +66,6 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ## 👩‍💻 Aluna
 
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/Leticia7">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/leticia-de-almeida-ferreira-18086a180">LinkedIn</a>
-&nbsp;|&nbsp;
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
 ---
 
 Feito por 💜 por [Leticia A. Ferreira](https://github.com/Leticia7)
