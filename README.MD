@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.AI](https://leonardo.ai/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,20 +40,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook no nicho de autodesenvolvimento com o tema de growthmindset, sendo o título épico e curso, tendo uma temática de Naruto e com 5 variações                                                         |
+| conteúdo | Faça um texto para ebook, com foco em lógica de programação e mentalidade de crescimento nessa área com analogias ao universo de naruto e exemplos de frases negativas e positivas, pseudocódigo e operadores lógicos sendo este conteúdo para no máximo 12 páginas {REGRAS} > Explique de maneira simples > Deixe o texto enxuto > Sempre traga exemplos de pseudocódigo em contextos reais > Sempre deixe um título sugestivo por tópico  |
 
 
-Midjourney：
+Leonardo.AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | A manga-style illustration of a ninja from the Naruto universe, deep in thought about the growth mindset and the hidden power of programming. The ninja stands against a vibrant orange background, embodying the spirit of the Leaf Village |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Leonardo.AI e Bing Copilot
 
 ## 📚 Materiais
 
@@ -64,24 +64,14 @@ Midjourney：
 
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
-## 👨‍💻 Expert
+## 👩‍💻 Aluna
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
     <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/Leticia7">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="www.linkedin.com/in/leticia-de-almeida-ferreira-18086a180">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
@@ -89,4 +79,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+Feito por 💜 por [Leticia A. Ferreira](https://github.com/Leticia7)
